@@ -3,11 +3,17 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;1,100&display=swap');
 
 body {
     background-color: rgb(7, 7, 7);
     color: #333;
     background-position: 0%;
+   
+}
+
+.mainfont{
+  
 }
 
 h1,
@@ -233,7 +239,7 @@ span {
     font-size: 48px;
     font-weight: 700;
     line-height: 56px;
-    font-family: "Philosopher", sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #71c55d;
 }
 
